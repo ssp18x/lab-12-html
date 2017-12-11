@@ -1,0 +1,46 @@
+p {
+    color: #0000FF;
+    font-size: 12px;
+    font-family: Sans-Serif;
+    text-decoration: line-through;
+}
+
+body {
+    font-size: 14px;
+    color: navy;
+    font-family: Sans-Serif;
+    background: white url(https://i.imgur.com/9WgJg0G.gif) no-repeat ;
+}
+
+h1 {
+    color: #008000 ;
+    background-color: #888888;
+    font-family: Sans-Serif;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: red;
+  }
+
+h2,.intro {
+   
+    background-color: #888888;
+    font-family: Sans-Serif;
+    text-decoration: underline;
+}
+
+
+.intro {
+    color:#008000;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: black;
+  }
+}
+
+.spotlight {
+    background-color:#FEFE22; 
+}
+
